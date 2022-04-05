@@ -1,4 +1,3 @@
-[![MasterHead](https://cdn.dribbble.com/users/44708/screenshots/2694410/code.gif)](https://cdn1.iconfinder.com/data/icons/data-science-1-1/512/20-512.png)
 <h1 align="center">Hi 👋, I'm Nick Alan Lom Ruiz</h1>
 <h3 align="center">A passionate frontend web developer from Mexico.</h3>
 <img align="right" alt="Coding-avatar" width="400" src="https://miro.medium.com/max/1360/1*zVnWJtyGOX_kUIDm6ccCfQ.gif"/>
